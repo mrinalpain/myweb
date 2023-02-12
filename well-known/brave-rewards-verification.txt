@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: onlinetutorialguru.tech
-Token: f1f143b61a8e770a2f2b2164627e033f43b42013010e28f577fbd8ed43c605e1
